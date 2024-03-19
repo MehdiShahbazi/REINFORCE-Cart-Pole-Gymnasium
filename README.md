@@ -30,9 +30,9 @@ You can view the training procedure through the following GIFs, demonstrating th
 
 
 <p align="center">
-  <img src="./Gifs/EP 1.gif" width="33%" height=33% />
-  <img src="./Gifs/EP 200.gif" width="33%" height=33% />
-  <img src="./Gifs/EP 400.gif" width="33%" height=33% />
+  <img src="./Gifs/EP 1.gif" width="32%" height=32% />
+  <img src="./Gifs/EP 200.gif" width="32%" height=32% />
+  <img src="./Gifs/EP 400.gif" width="32%" height=32% />
 </div>
 
 
